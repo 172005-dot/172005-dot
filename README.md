@@ -1,6 +1,5 @@
 # 💫 About Me:
-DSA in Java, web development & AI projects<br>Java projects, web apps, AI tools, and open-source projects<br>DSA, project development, and AI technologies<br>Java, Data Structures & Algorithms, Web Development, and AI Agents<br>Java, DSA, and AI tools<br>I love turning ideas into real projects 🚀<br>
-
+Transforming DSA Concepts into Interactive Learning Experiences with Java & AI 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chandrika0439) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chandrika_krishnan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandrika-badveli-330225326) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/CBadveli80891) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandrikasweety2005@gmail.com) 
